@@ -1,1 +1,1 @@
-Demonstration sketches for our Arduino and SD card tutorial. SD and microSD card breakout boards used and tutorial avaialble from http://tronixlabs.com/news/tutorial-using-sd-card-breakout-boards-with-arduino/
+Demonstration sketches for our Arduino and SD card tutorial. SD and microSD card breakout boards used and tutorial available from http://tronixlabs.com/news/tutorial-using-sd-card-breakout-boards-with-arduino/
